@@ -1,4 +1,4 @@
-package net.ShockFox05.FoxLuckyBlockMod;
+package net.ShockFox05.FoxLuckyBlock;
 
 import java.util.List;
 import java.util.Set;
