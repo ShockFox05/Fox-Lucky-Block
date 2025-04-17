@@ -1,7 +1,7 @@
 package net.ShockFox05.FoxLuckyBlock.block;
 
 import net.ShockFox05.FoxLuckyBlock.FoxLuckyBlockSFMod;
-import net.ShockFox05.FoxLuckyBlock.items.ModItems;
+import net.ShockFox05.FoxLuckyBlock.item.ModItems;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;

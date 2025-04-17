@@ -1,4 +1,4 @@
-package net.ShockFox05.FoxLuckyBlock.items;
+package net.ShockFox05.FoxLuckyBlock.item;
 
 import net.ShockFox05.FoxLuckyBlock.FoxLuckyBlockSFMod;
 import net.minecraft.world.item.Item;

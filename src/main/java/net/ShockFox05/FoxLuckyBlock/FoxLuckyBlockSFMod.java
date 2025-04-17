@@ -1,6 +1,6 @@
 package net.ShockFox05.FoxLuckyBlock;
 
-import net.ShockFox05.FoxLuckyBlock.items.ModItems;
+import net.ShockFox05.FoxLuckyBlock.item.ModItems;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
